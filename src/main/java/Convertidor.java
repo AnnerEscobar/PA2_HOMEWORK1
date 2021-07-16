@@ -18,10 +18,10 @@ public class Convertidor {
         Cantidad = sc.nextInt();
         System.out.println("");
         
-        
+        System.out.println("WATH CURRENCY DO YOU WANT TO CONVERT TO");
         System.out.println("1. Dolares");
-        System.out.println("1. Euros");
-        System.out.println("1. Yuanes");
+        System.out.println("2. Euros");
+        System.out.println("3. Yuanes");
         Opcion = sc.nextInt();
         System.out.println("");
         
